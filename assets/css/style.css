@@ -31,15 +31,15 @@ p {
 /***** Gallery *****/
  
 .gallery-box {
-  padding-top: 30px;
+  /* padding-top: 30px; */
 }
 .gallery-box img {
   cursor: pointer;
 }
 
 #img-margin {
-  /* margin: 50px; */
-  padding: 30px;
+  margin: 50px;
+  padding: 60px;
 }
 
 .carousel .carousel-indicators {
